@@ -1,0 +1,17 @@
+Description: You are supposed to implement the requirements provided below by creating a cli application in a programming language you choose.
+
+You will be building a banking application. The user will be able to perform the following actions along with the needed Input.
+
+
+
+you will be given a Stream of string input.
+
+case 1. "CREATE AC001 KELP" --> this means we have to create an account of account number AC001 and name KELP.
+
+case 2. "DEPOSIT AC001 10000" --> this means we have to deposit 10000 in AC001 bank account.
+
+case 3. "WITHDRAW AC001 1000" --> this means we have to withdraw 1000 from AC001 bank account.
+
+case 4. "BALANCE AC001" --> this means we have to print the name of the account holder and balance the his account.
+
+case 5. "0" -> END (End the program).
