@@ -15,3 +15,14 @@ case 3. "WITHDRAW AC001 1000" --> this means we have to withdraw 1000 from AC001
 case 4. "BALANCE AC001" --> this means we have to print the name of the account holder and balance the his account.
 
 case 5. "0" -> END (End the program).
+
+
+
+Conclusion:
+● Developed a CLI-based banking application using contemporary programming languages and tools.Created an intuitive CLI
+interface that empowers customers to efficiently create, view, and manage their accounts.Implemented a Real-Time Balance
+Inquiry feature, enabling users to effortlessly check their account balances using simple CLI commands.
+● Key Features: Ensured top-notch security by expertly integrating robust measures for secure transaction processing and
+meticulous data handling within CLI-based banking applications.Crafted user-friendly CLI applications that offer seamless
+account management and real-time balance inquiries.
+● Tech Stack: Java, OOPS (Object-Oriented Programming).
